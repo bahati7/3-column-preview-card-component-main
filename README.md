@@ -52,7 +52,7 @@ https://github.com/bahati7/3-column-preview-card-component-main/blob/main/screes
 
 In this project I learned how to wrap and center content using flexbox
 
-To see how you can add code snippets, see below:
+see below:
 
 
 ```css
